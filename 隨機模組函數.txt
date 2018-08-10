@@ -1,0 +1,4 @@
+random.randint(a, b)
+Return a random integer N such that a <= N <= b. Alias for randrange(a, b+1).
+
+返回一個隨機整數N，使得<= N<= B。別名randrange（A，B +1）。
